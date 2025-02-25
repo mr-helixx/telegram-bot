@@ -5,7 +5,7 @@ TOKEN = "7773863105:AAF0aHaAnyuiiswq7kZJHGfaGVQYX3WL-pI"  # Replace with your ac
 
 # Start command
 async def start(update: Update, context: CallbackContext):
-    await update.message.reply_text("Hello! I'm your bot. How can I help?")
+    await update.message.reply_text("Hey this is a bot devoleped by @h3lixx for "CLAN GOTEN"MEMBERS")
 
 # Reply to messages
 async def echo(update: Update, context: CallbackContext):
